@@ -60,3 +60,11 @@ body {
 #create-head-section, #share-head-section {
     background-color: rgb(166, 206, 142);
 }
+
+.contact-btn {
+    background-color: rgb(166, 206, 142);
+}
+
+.contact-btn:hover {
+    color: #fff;
+}
