@@ -31,6 +31,32 @@ body {
     }
 }
 
+.info-header {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px #ddd solid;
+}
+
+#accordion {
+    cursor: pointer;
+}
+
+#authors {
+    img {
+        margin-top: -50px;
+    }
+
+    .card:hover {
+        background: $primary;
+        color: #fff;
+        .fab {
+            color: #fff;
+        }
+    }
+
+    
+}
+
 
 // **********************
 //     Media Queries
